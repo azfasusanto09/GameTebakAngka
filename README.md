@@ -41,6 +41,7 @@ Project ini adalah sebuah Game Tebak Angka berbasis Java yang dibuat untuk mener
 <img width="400" height="148" alt="image" src="https://github.com/user-attachments/assets/32204e12-e32b-4cd0-95bc-fc6fa2b50f3e" />
 
 <h3>Link video YouTube :</h3>
+https://youtu.be/hEvy3AkGwQ8
 
 <h3>Petunjuk Cara Menjalankan Program :</h3>
 
