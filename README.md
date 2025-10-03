@@ -46,6 +46,6 @@ Project ini adalah sebuah Game Tebak Angka berbasis Java yang dibuat untuk mener
 
 1. Buka aplikasi netbeans yang telah anda instal
 2. Buka kode main Game Tebak Kata yang telah dibuat sebelumnya
-3. Lakukan run program 
+3. Lakukan run pada kode program 
 4. Setelah muncul output dari kode program, lanjutkan dengan untuk memainkan game yakni dengan memasukan nama anda dan selanjutnya anda akan diarahkan untuk menebak angka. Disini anda memiliki 5 kesempatan untuk menebak.
 5. Sekarang anda bisa memainkan Game Tebak Angka
