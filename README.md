@@ -20,9 +20,9 @@ Project ini adalah sebuah Game Tebak Angka berbasis Java yang dibuat untuk mener
 │                   ├── Game.java         
 │                   └── Player.java        
 │
-├── README.md                  # dokumentasi proyek
-├── .gitignore                 # opsional
-└── LICENSE                    # opsional
+├── README.md                  
+├── .gitignore                
+└── LICENSE                   
 </pre>
 
 
